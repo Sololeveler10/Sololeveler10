@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Sololeveler10
-- 👀 I’m interested in gaining experiences and learn new things
-- 🌱 I’m currently learning Data science
-- 📫 How to reach me email : rahulsoni5902@gmail.com  instagram: solo_leveler_10
-- 😄 Pronouns: He/Him
+👋 Hey there, I'm Rahul Soni (@Sololeveler10)!
+🚀 Passionate about Learning & Growth | 📊 Aspiring Data Scientist
+🔍 Curious Explorer | Always Eager to Learn & Innovate
+💡 Currently diving deep into Data Science, AI, and Machine Learning to uncover insights and drive impactful solutions.
+📩 Let’s Connect!
+✉️ Email: rahulsoni5902@gmail.com
+📸 Instagram: @solo_leveler_10
+
+😄 Pronouns: He/Him
 
 
 <!---
